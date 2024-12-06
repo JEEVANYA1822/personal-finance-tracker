@@ -1,0 +1,31 @@
+{
+    "income": 50000.0,
+    "expenses": [
+        {
+            "description": "flight ticket",
+            "amount": 5000.0,
+            "category": "travel"
+        },
+        {
+            "description": "pen",
+            "amount": 50.0,
+            "category": "office"
+        },
+        {
+            "description": "groceries",
+            "amount": 150.0,
+            "category": "food"
+        },
+        {
+            "description": "eb bill",
+            "amount": 100.0,
+            "category": "electricity"
+        },
+        {
+            "description": "gas bill",
+            "amount": 1000.0,
+            "category": "gas"
+        }
+    ],
+    "savings": 43700.0
+}
